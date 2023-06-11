@@ -11,5 +11,10 @@
             "email": "git@mortolian.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "require": {
+        "symfony/var-dumper": "^6.3"
+    }
 }
