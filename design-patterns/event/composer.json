@@ -1,0 +1,15 @@
+{
+    "name": "gideon/event",
+    "autoload": {
+        "psr-4": {
+            "Gideon\\Event\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gideon",
+            "email": "git@mortolian.com"
+        }
+    ],
+    "require": {}
+}
