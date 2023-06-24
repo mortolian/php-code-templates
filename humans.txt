@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: Gideon S. (Mortolian)
+Site: https://gideon.dev
+Location: 127.0.0.1
+
+/* THANKS */
+Name:
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3, JavaScript
+Components: React.JS, Next.JS
+Software:
+Language: English
