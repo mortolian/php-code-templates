@@ -20,6 +20,8 @@ one of the examples is a small project on its own.
 
 All code assumes PHP version 8.2.
 
+- [Singleton Design Pattern](design-patterns%2Fsingleton%2FREADME.md)
+
 ## PHP Basic Object Orientated Sample Code
 
 This is a single app which will have several samples for object orientated PHP code in it. This is useful for

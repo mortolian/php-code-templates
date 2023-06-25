@@ -5,9 +5,6 @@ include_once "vendor/autoload.php";
 use App\Config;
 use App\Logger;
 
-/**
- * The client code.
- */
 Logger::log("Started!");
 
 // Compare values of Logger singleton.
