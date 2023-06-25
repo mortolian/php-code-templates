@@ -21,6 +21,7 @@ one of the examples is a small project on its own.
 All code assumes PHP version 8.2.
 
 - [Singleton Design Pattern](design-patterns/singleton/README.md)
+- [Event Design Pattern](design-patterns/event/README.md)
 
 ## PHP Basic Object Orientated Sample Code
 
