@@ -20,7 +20,7 @@ one of the examples is a small project on its own.
 
 All code assumes PHP version 8.2.
 
-- [Singleton Design Pattern](design-patterns%2Fsingleton%2FREADME.md)
+- [Singleton Design Pattern](design-patterns/singleton/README.md)
 
 ## PHP Basic Object Orientated Sample Code
 
